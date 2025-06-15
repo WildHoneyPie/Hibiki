@@ -1,7 +1,3 @@
-# Real-time Text Emotion Detection
-
-This project uses LangChain and OpenAI's GPT-4 to perform real-time emotion detection on text input. The application provides a simple web interface where users can input text and receive emotion analysis.
-
 ## Setup
 
 1. Clone this repository
@@ -18,12 +14,6 @@ This project uses LangChain and OpenAI's GPT-4 to perform real-time emotion dete
    streamlit run app.py
    ```
 
-## Features
-
-- Real-time emotion detection using GPT-4
-- Web interface for easy interaction
-- Detailed emotion analysis with confidence scores
-- Support for multiple emotions in a single text
 
 ## Requirements
 
